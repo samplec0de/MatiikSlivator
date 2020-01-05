@@ -1,5 +1,5 @@
 # MatiikSlivator
-Автоматически решает примеры из vk.com/matikbot и зарабаотывает вк коинты.<br/>
+Автоматически решает примеры из vk.com/matikbot и зарабатывает вк коинты.<br/>
 Демо: https://youtu.be/cIk6U4PavYI<br/><br/>
 **Установка**
 1. Установить python3
